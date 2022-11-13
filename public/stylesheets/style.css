@@ -6,3 +6,26 @@ body {
 a {
   color: #00B7FF;
 }
+
+.image_card {
+  max-width: 287px;
+  max-height: 287px;
+}
+
+.float-right{
+  float: right;
+}
+
+.float-left{
+  float: left;
+}
+
+.price{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.product{
+  padding-top: 20px;
+}
